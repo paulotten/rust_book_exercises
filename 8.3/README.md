@@ -1,0 +1,1 @@
+These are implementations of the execises described at the [end of Chapter 8](https://doc.rust-lang.org/book/ch08-03-hash-maps.html#summary) of "The Rust Book".
