@@ -1,0 +1,1 @@
+The final project from the rust book. I added a control-c handler using [ctrlc](https://github.com/Detegr/rust-ctrlc).
